@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: e0636dffa34644e0f9c7c2bb395ed5e3
+  - enabled: 1
+    path: Assets/Scenes/Level X.unity
+    guid: eab84e32af98648bfb359abd199f0077
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: a4d42b5743cf04ff9aeca21345c5d764
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: f18cc617d2b26436a85982557a8fcfe5
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 366010fcf8e4b4677898e2ee8974be7f
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: a5f42a9366cf24e58914078c3d39885d
+  - enabled: 1
+    path: Assets/Scenes/Level gravity.unity
+    guid: 93cd363f0b1354562a7286b9c38aa730
+  - enabled: 1
+    path: Assets/Scenes/Level gravity 2.unity
+    guid: 1800004d3f3c6439aae240cd7ed517a4
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 481408a0debf1434d8670299bc1bd467
+  - enabled: 1
+    path: Assets/Scenes/Level 0.unity
+    guid: a7f100fe28bc24cbe8b2502fc7a91ee4
+  - enabled: 1
+    path: Assets/Scenes/Prologue.unity
+    guid: a4bf7bfe726324eefb93f18603bcb1cb
+  - enabled: 1
+    path: Assets/Scenes/Level Teletubby 2.unity
+    guid: 43e2531bf932c47d39ef49bbfef2d864
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Level Teletubby 0.unity
+    guid: 22c67da55a5df42ceb9b4a0bed290a9b
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: a125fac356ab14a98a7edca8bab00ac1
+  - enabled: 1
+    path: Assets/Scenes/Boss Fight.unity
+    guid: cd34c42ac85d84163a989aee53183762
+  m_configObjects: {}

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{A6DA4FE2-CDC8-89C5-0764-DFF5A4DBB8DE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/mainMenuController.cs">
+    <Files>
+      <File FileName="Assets/rocket3.cs" Line="8" Column="2" />
+      <File FileName="Assets/playerMovement.cs" Line="63" Column="31" />
+      <File FileName="Assets/rocket4.cs" Line="12" Column="33" />
+      <File FileName="Assets/rocket5.cs" Line="25" Column="25" />
+      <File FileName="Assets/moveLeft.cs" Line="18" Column="6" />
+      <File FileName="Assets/mainMenuController.cs" Line="22" Column="46" />
+      <File FileName="Assets/cameraMovement.cs" Line="20" Column="21" />
+      <File FileName="Assets/getCloser.cs" Line="20" Column="64" />
+      <File FileName="Assets/EvilTubby.cs" Line="22" Column="6" />
+      <File FileName="Assets/evil_tubby_fast.cs" Line="37" Column="25" />
+      <File FileName="Assets/setPatricleZToZero.cs" Line="19" Column="5" />
+      <File FileName="Assets/bossMovement.cs" Line="77" Column="68" />
+      <File FileName="Assets/zoomOut.cs" Line="22" Column="32" />
+      <File FileName="Assets/moveRight.cs" Line="19" Column="49" />
+      <File FileName="Assets/moveLeft_.cs" Line="6" Column="2" />
+      <File FileName="Assets/floatUpAndDown.cs" Line="5" Column="44" />
+      <File FileName="Assets/letTileMapDisappear.cs" Line="20" Column="82" />
+      <File FileName="Assets/pauseMenu.cs" Line="44" Column="29" />
+      <File FileName="Assets/pauseMenuRouting.cs" Line="21" Column="1" />
+      <File FileName="Assets/delayRocket.cs" Line="13" Column="59" />
+      <File FileName="Assets/dontStopTheMusic.cs" Line="28" Column="1" />
+      <File FileName="Assets/dontStopTheMusicUnless.cs" Line="28" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
